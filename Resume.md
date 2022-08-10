@@ -4,8 +4,9 @@ Work experience
 - None
 
 Extracurricular 
-- Writing, and map making
+- Writing, and map design
 
 Education
+- Mcintosh High School
 
 Skills
