@@ -1,7 +1,7 @@
 Peyton's Resume
 
 Work experience
-  None
+- None
 
 Extracurricular 
 - Writing, and map making
