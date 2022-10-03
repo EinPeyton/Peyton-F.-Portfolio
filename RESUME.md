@@ -11,3 +11,13 @@ N/A
 - Map designing
 - Writing
 - Event organizer for Garry's Mod community
+
+## Typing
+- Keys Learned
+  - J, F, and Space
+  - U, R, and K Keys
+  - D, E, and I Keys
+  - C, G, and N Keys
+- Avg. Speed: 56 WPM
+- Avg. Acc: 95%
+- Typing Time: 0.23
