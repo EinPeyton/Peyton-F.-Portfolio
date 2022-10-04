@@ -24,4 +24,4 @@ N/A
   - O, B, and A Keys
 - Avg. Speed: 56 WPM
 - Avg. Acc: 95%
-- Typing Time: 0.23
+- Typing Time: 0.34
