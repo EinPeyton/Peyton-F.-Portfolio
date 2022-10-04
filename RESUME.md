@@ -18,6 +18,10 @@ N/A
   - U, R, and K Keys
   - D, E, and I Keys
   - C, G, and N Keys
+  - Beginner Review 1
+  - Personalized Practice
+  - T, S, and L Keys
+  - O, B, and A Keys
 - Avg. Speed: 56 WPM
 - Avg. Acc: 95%
 - Typing Time: 0.23
