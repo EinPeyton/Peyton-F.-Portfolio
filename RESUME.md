@@ -22,6 +22,7 @@ N/A
   - Personalized Practice
   - T, S, and L Keys
   - O, B, and A Keys
+  - V, H, and M Keys
 - Avg. Speed: 56 WPM
 - Avg. Acc: 95%
 - Typing Time: 0.34
