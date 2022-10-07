@@ -23,6 +23,15 @@ N/A
   - T, S, and L Keys
   - O, B, and A Keys
   - V, H, and M Keys
+  - Period and Comma
+  - Beginner Review 2
+  - Personalized Practice
+  - W, X, and ; Keys
+  - Q, Y, and P Keys
+  - Z and Enter Keys
+  - Beginner Wrap-up
+  - Personalized Practice
+  - Assessment 1
 - Avg. Speed: 56 WPM
 - Avg. Acc: 95%
 - Typing Time: 0.34
