@@ -32,6 +32,6 @@ N/A
   - Beginner Wrap-up
   - Personalized Practice
   - Assessment 1
-- Avg. Speed: 56 WPM
+- Avg. Speed: 60 WPM
 - Avg. Acc: 95%
-- Typing Time: 0.34
+- Typing Time: 1.54
